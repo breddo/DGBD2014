@@ -1,0 +1,10 @@
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\bin\Debug\PromedioDeLluvia.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\bin\Debug\PromedioDeLluvia.pdb
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\obj\x86\Debug\PromedioDeLluvia.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\obj\x86\Debug\PromedioDeLluvia.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\obj\x86\Debug\PromedioDeLluvia.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\obj\x86\Debug\PromedioDeLluvia.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\bin\Debug\PromedioDeLluvia.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\bin\Debug\PromedioDeLluvia.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PromedioDeLluvia\obj\x86\Debug\ResolveAssemblyReference.cache

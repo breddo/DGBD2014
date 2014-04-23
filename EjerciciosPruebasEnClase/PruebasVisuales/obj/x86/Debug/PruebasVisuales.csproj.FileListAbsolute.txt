@@ -1,0 +1,9 @@
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\bin\Debug\PruebasVisuales.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\bin\Debug\PruebasVisuales.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.Form1.resources
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.Properties.Resources.resources
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.pdb

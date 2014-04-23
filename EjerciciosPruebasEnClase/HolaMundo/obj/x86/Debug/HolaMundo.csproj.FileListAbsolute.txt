@@ -1,0 +1,15 @@
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\bin\Debug\HolaMundo.exe
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\bin\Debug\HolaMundo.pdb
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\HolaMundo.exe
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\HolaMundo.pdb
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\HolaMundo.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\HolaMundo.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\HolaMundo.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\HolaMundo\obj\x86\Debug\HolaMundo.pdb

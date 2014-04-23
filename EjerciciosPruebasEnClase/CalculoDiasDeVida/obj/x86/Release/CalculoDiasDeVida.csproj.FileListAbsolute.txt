@@ -1,0 +1,5 @@
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Release\CalculoDiasDeVida.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Release\CalculoDiasDeVida.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Release\CalculoDiasDeVida.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Release\CalculoDiasDeVida.pdb

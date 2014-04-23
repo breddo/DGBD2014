@@ -1,0 +1,19 @@
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Debug\CalculoDiasDeVida.exe
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Debug\CalculoDiasDeVida.pdb
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.exe
+Z:\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.pdb
+F:\Documents\Visual Studio 2013\Projects\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.exe
+F:\Documents\Visual Studio 2013\Projects\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.pdb
+\\Disco_externo\almacenamiento compartido\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.exe
+\\Disco_externo\almacenamiento compartido\TECNICATURAS\PABLO AIMAR\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.pdb
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.pdb
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Debug\CalculoDiasDeVida.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Debug\CalculoDiasDeVida.pdb
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\CalculoDiasDeVida.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Debug\CalculoDiasDeVida.exe
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\bin\Debug\CalculoDiasDeVida.pdb
+C:\Documents and Settings\Director\Mis documentos\Visual Studio 2010\Projects\DGBD2014\DGBD2014\EjerciciosPruebasEnClase\CalculoDiasDeVida\obj\x86\Debug\ResolveAssemblyReference.cache
